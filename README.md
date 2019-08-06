@@ -1,5 +1,5 @@
 # Udacity_data
-you can find the code in the attached Jupyter notebook <a href ="">Udaity_data.ipynb</a>
+if you want to see the code you can click on this <a href="https://github.com/hbaruas/Udacity_data/blob/master/Udacity_data.ipynb">Udacity</a> and can see the code in Jupyter notebook.
 simple findings on Udacity Data
 
 # The Question we can solve using this data
@@ -9,3 +9,4 @@ simple findings on Udacity Data
 ### How engagement changes.
 ### How many times students submit.
 ## How do students who pass their project differ from those who don't.
+
