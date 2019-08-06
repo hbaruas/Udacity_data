@@ -1,7 +1,8 @@
 # Udacity_data
+you can find the code in the attached Jupyter notebook Udaity_data.ipynb
 simple findings on Udacity Data
 
-#The Question we can solve using this data
+# The Question we can solve using this data
 
 ### How much time students spend taking classes.
 ### How much time spent relates to lesson/projects completed.
