@@ -1,5 +1,5 @@
 # Udacity_data
-if you want to see the code you can click on this <a href="https://github.com/hbaruas/Udacity_data/blob/master/Udacity_data.ipynb">Udacity</a> and can see the code in Jupyter notebook.
+if you want to see the code you can click on this <a href="https://github.com/hbaruas/Udacity_data/blob/master/Udacity_data.ipynb">Udacity_data.ipynb</a> and can see the code in Jupyter notebook.
 simple findings on Udacity Data
 
 # The Question we can solve using this data
