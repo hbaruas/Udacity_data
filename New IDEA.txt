@@ -1,0 +1,8 @@
+this is not fair to judge the popularity of a song by just seeing the number of views of a song on youtube, for instance most of english videos have views in billion whereas not a single video have a view in billion why is that.
+is there something wrong with the content or why people hate it or is it the language.
+we have to scrap the data from youtube of every video, that includes the number of views and in which language the video.
+for example if video is in english then the number of   views are more one reason it seems is because of the total number of people who understands the english are way more.
+
+So I need the data of every language, that how many people talk in that language.
+and I need to make a web interface for this 
+so everyone can go and upload a song and see how popular it is in reality without just by seeing it's views.
